@@ -1,0 +1,35 @@
+.pull-left{
+    float: left;
+    margin: 0;
+    font-size: 25px;
+}
+
+.btn{
+    float: left;
+    width: 65px;
+    height: 28px;
+    border: none;
+    background-color: blue;
+    color: white;
+}
+
+.sub-container{
+    display: inline-block;
+    padding: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin-left: 32%;
+    width: 30%;
+    margin-top: 10%;
+    
+}
+
+.align{
+    color:tomato;
+}
+
+.clr{
+    color: black;
+}
+.container{
+    width: 100%;
+}
